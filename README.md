@@ -1,5 +1,4 @@
 # newtonbot
-# newtonbot
 自动签到
 输出结果![image](https://github.com/user-attachments/assets/444afc85-8ab9-42e0-9d32-944562c09fc5)
 
